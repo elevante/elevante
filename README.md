@@ -5,7 +5,7 @@
 ### 👩‍💻 About Me :
 
 - Current Student of School 21 (Ecole 42)
-- MIREA — Russian Technological University
+- Moscow Institute of Physics and Technology, MIPT, Phystech
 ---
 
 ### :hammer_and_wrench: Languages and Tools, and Platforms :
